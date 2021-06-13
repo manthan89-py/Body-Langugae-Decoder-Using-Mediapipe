@@ -22,7 +22,6 @@ pip install mediapipe opencv-python scikit-learn pandas
 
 ```bash 
   npm install git+https://github.com/manthan89-py/Body-Langugae-Decoder-Using-Mediapipe.git
-  cd Body-Langugae-Decoder-Using-Mediapipe
 ```
 ```
 Download Code as Zip
